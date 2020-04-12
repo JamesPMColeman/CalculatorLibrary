@@ -18,4 +18,4 @@ class TestCalculator:
         assert 42 == calculator.multiply(7, 6)
 
     def test_division(self):
-        pass
+        assert 7 == calculator.divide(42, 6)
