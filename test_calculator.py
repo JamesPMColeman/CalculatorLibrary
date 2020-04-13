@@ -3,7 +3,7 @@ Unit tests for the calculator library
 """
 
 
-import calculator
+from calc_box import calculator
 
 
 class TestCalculator:
